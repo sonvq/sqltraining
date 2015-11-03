@@ -1,0 +1,6 @@
+http://www.developer.com/db/slideshows/10-ways-to-improve-sql-query-performance.html
+http://www.infoworld.com/article/2628420/database/database-7-performance-tips-for-faster-sql-queries.html
+http://www.sql-server-performance.com/
+https://msdn.microsoft.com/en-us/library/ff647793.aspx
+
+http://www.lynda.com/SQL-tutorials/What-SQL/139988/166252-4.html
