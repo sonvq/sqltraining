@@ -4,3 +4,7 @@ http://www.sql-server-performance.com/
 https://msdn.microsoft.com/en-us/library/ff647793.aspx
 
 http://www.lynda.com/SQL-tutorials/What-SQL/139988/166252-4.html
+
+http://stackoverflow.com/questions/1108/how-does-database-indexing-work
+
+http://stackoverflow.com/questions/15232403/what-is-a-database-index
